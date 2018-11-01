@@ -1,8 +1,8 @@
 <div dir="rtl">
-<h2 dir="rtl">افزونه پی پینِگ، ویژه vertual freer </h2>
+<h2 dir="rtl">افزونه پی‌پینگ، ویژه vertual freer </h2>
 <p dir="rtl">
 افزونه هماهنگ شده با vertual freer، جهت ارتباط با سایت 
-<a href="https://payping.ir">«پی پینگ»</a>
+<a href="https://payping.ir">«پی‌پینگ»</a>
 می باشد.
 </p>
 <p dir="rtl">
