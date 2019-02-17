@@ -6,7 +6,7 @@
 	$pluginData['payping']['author']['name'] = 'Erfan Ebrahimi';
 	$pluginData['payping']['author']['url'] = 'http://erfanebrahimi.ir';
 	$pluginData['payping']['author']['email'] = 'me@erfanebrahimi.ir';
-	$pluginData['payping']['field']['config'][1]['title'] = 'مرچنت';
+	$pluginData['payping']['field']['config'][1]['title'] = 'توکن پی پینگ';
 	$pluginData['payping']['field']['config'][1]['name'] = 'token';
 	$pluginData['payping']['field']['config'][2]['title'] = 'عنوان خرید برای توضیحات درگاه پرداخت';
 	$pluginData['payping']['field']['config'][2]['name'] = 'title';
